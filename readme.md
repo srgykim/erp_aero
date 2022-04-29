@@ -5,12 +5,12 @@
 npm install -g nodemon
 ```
 
-- Install local dependencies:
+- Install local dependencies from server directory:
 ```
 npm install
 ```
 
-- Start project:
+- Start project from server directory:
 ```
 npm start
 ```
