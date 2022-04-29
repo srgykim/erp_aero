@@ -15,5 +15,11 @@ npm install
 npm start
 ```
 
+REST API доступен по адресу:
+localhost/api/
+
+Например:
+localhost/api/signup
+
 <p>Автор: Ким Сергей</p>
 <p>E-mail: <a href="mailto:srgykim@gmail.com">srgykim@gmail.com</a></p>
