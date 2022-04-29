@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "erp_aero.db"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "erp_aero.db"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "erp_aero.db"
+  }
+}
